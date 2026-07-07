@@ -1,4 +1,4 @@
-# ## Hi there 👋
+## Hi there 👋
 
 [![Typing SVG](https://herokuapp.com)](https://git.io)
 
@@ -21,5 +21,7 @@
   <img src="https://vercel.app" />
 </p>
 
-<!-- 며칠 연속으로 코딩했는지 보여주는 스트릭 -->
-![GitHub Streak](https://herokuapp.com)
+<!-- 스트릭 -->
+<p align="center">
+  <img src="https://herokuapp.com" />
+</p>
