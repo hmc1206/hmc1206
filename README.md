@@ -2,8 +2,7 @@
 
 ![Typing SVG](https://herokuapp.com)
 
-### 🛠 Tech Stack & Certificates
-![Cert](https://shields.io) ![Cert](https://shields.io) ![Cert](https://shields.io)
+### 🛠 Tech Stack
 ![Java](https://shields.io) ![Spring](https://shields.io) ![JS](https://shields.io)
 
 ### 📊 Stats
