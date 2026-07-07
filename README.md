@@ -1,25 +1,11 @@
 ## Hi there 👋
 
-<img src="https://herokuapp.com" alt="Typing SVG" />
+![Typing SVG](https://herokuapp.com)
 
 ### 🛠 Tech Stack & Certificates
+![Cert](https://shields.io) ![Cert](https://shields.io) ![Cert](https://shields.io)
+![Java](https://shields.io) ![Spring](https://shields.io) ![JS](https://shields.io)
 
-<img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" />
-
-<br/>
-
-<img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" />
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://vercel.app" />
-</p>
-
-<p align="left">
-  <img src="https://vercel.app" />
-</p>
-
-<p align="left">
-  <img src="https://herokuapp.com" />
-</p>
+### 📊 Stats
+![Stats](https://vercel.app)
+![Streak](https://herokuapp.com)
