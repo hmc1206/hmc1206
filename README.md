@@ -5,12 +5,29 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Typing SVG](https://herokuapp.com)](https://git.io)
+
+
+### 🛠 Tech Stack & Certificates
+
+<!-- 자격증 배지 -->
+![Certificate](https://shields.io)
+![Certificate](https://shields.io)
+![Certificate](https://shields.io)
+
+<!-- 기술 스택 배지 -->
+![Java](https://shields.io)
+![SpringBoot](https://shields.io)
+![JS](https://shields.io)
+
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://vercel.app" />
+  <img src="https://vercel.app" />
+</p>
+
+<!-- 며칠 연속으로 코딩했는지 보여주는 스트릭 -->
+![GitHub Streak](https://herokuapp.com)
+
