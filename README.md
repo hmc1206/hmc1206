@@ -1,12 +1,6 @@
-## Hi there 👋
-
-<!--
-**hmc1206/hmc1206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+# ## Hi there 👋
 
 [![Typing SVG](https://herokuapp.com)](https://git.io)
-
 
 ### 🛠 Tech Stack & Certificates
 
@@ -20,7 +14,6 @@ Here are some ideas to get you started:
 ![SpringBoot](https://shields.io)
 ![JS](https://shields.io)
 
-
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -30,4 +23,3 @@ Here are some ideas to get you started:
 
 <!-- 며칠 연속으로 코딩했는지 보여주는 스트릭 -->
 ![GitHub Streak](https://herokuapp.com)
-
