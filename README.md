@@ -2,9 +2,9 @@
 
 # 👋 Hi, I'm Hong Myeong Cheol
 
-### Frontend Developer
+###Developer
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=3FB950&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+%7C+TypeScript;Always+Learning+New+Things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=3FB950&center=true&vCenter=true&width=700&lines=Developer;React+%7C+TypeScript;Always+Learning+New+Things)](https://git.io/typing-svg)
 
 끊임없이 배우고 기록하며 성장하는 개발자입니다.
 
