@@ -2,14 +2,11 @@
 
 # 👋 Hi, I'm Hong Myeong Cheol
 
-###Developer
+### Developer
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=3FB950&center=true&vCenter=true&width=700&lines=Developer;React+%7C+TypeScript;Always+Learning+New+Things)](https://git.io/typing-svg)
 
 끊임없이 배우고 기록하며 성장하는 개발자입니다.
-
-현재 **AI Chat Application**을 개발하며  
-React 생태계와 성능 최적화를 학습하고 있습니다.
 
 </div>
 
@@ -19,12 +16,14 @@ React 생태계와 성능 최적화를 학습하고 있습니다.
 
 ```typescript
 const hong = {
-  role: "Frontend Developer",
+  role: "Developer",
 
   language: [
     "JavaScript",
     "TypeScript",
     "Java"
+    "Python",
+    "C"
   ],
 
   frontend: [
@@ -94,7 +93,7 @@ const hong = {
 
 ---
 
-# 🚀 Featured Project
+# 🚀 Featured Projects
 
 ## 🤖 AI Chat Application
 
@@ -108,28 +107,46 @@ AI 기반 실시간 채팅 애플리케이션
 - 자동 스크롤
 - 반응형 UI
 - Infinite Scroll
-- Debounce
-- Throttle
+- Debounce & Throttle
 - Lazy Loading
 - Code Splitting
 
-### 🛠 Tech
+### 🛠 Tech Stack
 
-React · TypeScript · React Query · TailwindCSS
+`React` `TypeScript` `React Query` `TailwindCSS`
 
-🔗 Repository
+<p align="center">
+  <a href="https://github.com/hmc1206/AIChatApplication">
+    <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
-https://github.com/hmc1206
+---
+
+## 🤖 My AI Agent
+
+AI Agent 테스트 프로젝트
+
+### 🛠 Tech Stack
+
+`TypeScript`
+
+<p align="center">
+  <a href="https://github.com/hmc1206/My_AIAgent">
+    <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 # 📂 Other Projects
 
-| Project | Description |
-|----------|-------------|
-| 💰 Expense Tracker | 가계부 서비스 |
-| 🌐 Portfolio | 개인 포트폴리오 |
-| 📋 Spring Board | Spring Boot 게시판 |
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 🎨 100 Days CSS Challenge | 100일 CSS 챌린지 | `CSS` |
+| ⚡ Code Splitting | 코드 스플리팅 테스트 | `JavaScript` |
+| 📋 Spring Boot Project | 스프링 부트 웹 프로젝트 | `Java` `Spring Boot` |
+| 🏫 Sinamon Frontend | 학교 프로젝트 프론트엔드 | `React` |
 
 ---
 
