@@ -123,16 +123,16 @@ AI 기반 실시간 채팅 애플리케이션
 
 ---
 
-## 🤖 My AI Agent
+## 🌾 RNSLAB Farm
 
-AI Agent 테스트 프로젝트
+스마트팜 관련 프로젝트
 
 ### 🛠 Tech Stack
 
-`TypeScript`
+`JavaScript`
 
 <p align="center">
-  <a href="https://github.com/hmc1206/My_AIAgent">
+  <a href="https://github.com/RNSLAB55/rnslab_farm">
     <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
@@ -149,6 +149,7 @@ AI Agent 테스트 프로젝트
 | 🏫 Sinamon Frontend | 학교 프로젝트 프론트엔드 | `React` |
 
 ---
+
 
 # 📈 GitHub Contribution Graph
 
